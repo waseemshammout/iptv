@@ -1,7 +1,7 @@
 import os
 currentdirectory = os.path.dirname(os.path.abspath(__file__))
 def log_that_line(logWhat):
-    with open(currentdirectory + '\\output.txt', 'a') as file1:
+    with open(currentdirectory + '\\output.csv', 'a') as file1:
         file1.writelines(logWhat)
 def LastCommaPosition(text):  # This function finds the last comma character index number within a text
     CommaCount = text.count(',')
