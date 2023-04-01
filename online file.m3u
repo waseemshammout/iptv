@@ -1,0 +1,151 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Halab Today" status="timeout", Halab Today
+https://video1.getstreamhosting.com:1936/8320/8320/playlist.m3u8
+#EXTINF:-1 tvg-id="Al Yaum TV" status="online",Al Yaum TV 
+https://ikomg1.s.llnwi.net/alyaum-tv/alyaum-tv.m3u8
+#EXTINF:-1 tvg-id="Almahaliya" status="timeout", Almahaliya
+http://momopro.xyz:8080/05385831973/9874984984984/73835
+#EXTINF:-1 tvg-id="Lana TV" status="timeout", Lana TV
+http://momopro.xyz:8080/05385831973/9874984984984/39
+#EXTINF:-1 tvg-id="Nour El Sham" status="timeout", Nour El Sham
+http://vod.ortas.sy:1935/oLive/nour05042022/playlist.m3u8
+#EXTINF:-1 tvg-id="Syria Drama" status="timeout", Syria Drama
+http://momopro.xyz:8080/05385831973/9874984984984/32
+#EXTINF:-1 tvg-id="Sama TV" status="online", Sama TV
+http://momopro.xyz:8080/05385831973/9874984984984/36
+#EXTINF:-1 tvg-id="Spacetoon Arabic" status="timeout",Spacetoon Arabic
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Syria Drama" status="timeout", Syria Drama
+http://vod.ortas.sy:1935/oLive/drama05042022/playlist.m3u8
+#EXTINF:-1 tvg-id="Syria Satellite Channel" status="blocked",Syria Satellite Channel
+http://vod.ortas.sy:1935/oLive/sat05042022/playlist.m3u8
+#EXTINF:-1 tvg-id="Syria TV" status="timeout", Syria TV
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="Abu Dhabi" status="timeout", Abu Dhabi
+http://momopro.xyz:8080/05385831973/9874984984984/705
+#EXTINF:-1 tvg-id="Abu Dhabi Emirates" status="timeout", Abu Dhabi Emirates
+https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Al Aan TV" status="timeout",Al Aan TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x74wje5
+#EXTINF:-1 tvg-id="Alarabiya" status="timeout",Alarabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Al Arabiya Al Hadath" status="timeout",Al Arabiya Al Hadath
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Dubai One" status="timeout",Dubai One
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Dubai TV" status="timeout",Dubai TV
+https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Dubai Zaman" status="timeout",Dubai Zaman
+https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC 1" status="timeout",MBC 1
+https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:-1 tvg-id="MBC 2" status="timeout",MBC 2
+http://momopro.xyz:8080/05385831973/9874984984984/3
+#EXTINF:-1 tvg-id="MBC 3" status="timeout",MBC 3
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
+#EXTINF:-1 tvg-id="MBC 4" status="timeout",MBC 4
+https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:-1 tvg-id="MBC 5" status="timeout",MBC 5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1 tvg-id="MBC Action" status="blocked",MBC Action
+http://momopro.xyz:8080/05385831973/9874984984984/9
+#EXTINF:-1 tvg-id="MBC Bollywood" status="timeout",MBC Bollywood
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1 tvg-id="MBC Drama" status="timeout",MBC Drama
+http://momopro.xyz:8080/05385831973/9874984984984/7
+#EXTINF:-1 tvg-id="MBC Variety" status="timeout",MBC Variety
+http://momopro.xyz:8080/05385831973/9874984984984/13
+#EXTINF:-1 tvg-id="MBC Iraq" status="timeout",MBC Iraq
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+#EXTINF:-1 tvg-id="MBC Masr" status="timeout",MBC Masr 1
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
+#EXTINF:-1 tvg-id="MBC Masr 2" status="timeout",MBC Masr 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:-1 tvg-id="MBC Plus Drama" status="timeout",MBC Plus Drama
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1 tvg-id="MBC Family" status="timeout",MBC Family
+http://momopro.xyz:8080/05385831973/9874984984984/21883
+#EXTINF:-1 tvg-id="National Geographic AbuDhabi" status="timeout",National Geographic Abu Dhabi
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Noor Dubai" status="timeout",Noor Dubai
+https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PMC" status="timeout",PMC
+https://hls.pmchd.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Sama Dubai" status="timeout",Sama Dubai
+https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Sky News Arabia" status="timeout",Sky News Arabia
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera Arabic" status="timeout",Al Jazeera Arabic
+https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera Documentary" status="timeout",Al Jazeera Documentary
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera English" status="timeout",Al Jazeera English
+https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera Mubasher" status="timeout", Al Jazeera Mubasher
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:-1 tvg-id="Al Jadeed" status="timeout", Al Jadeed
+http://momopro.xyz:8080/05385831973/9874984984984/56
+#EXTINF:-1 tvg-id="LBC International" status="timeout", LBC International
+http://momopro.xyz:8080/05385831973/9874984984984/17482
+#EXTINF:-1 tvg-id="Future" status="timeout",Future
+http://momopro.xyz:8080/05385831973/9874984984984/54
+#EXTINF:-1 tvg-id="Al Manar" status="timeout", Al Manar
+https://manar.live/iptv/playlist.m3u8
+#EXTINF:-1 tvg-id="Al Mayadeen" status="timeout", Al Mayadeen
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MTV Lebanon" status="timeout",MTV Lebanon
+http://momopro.xyz:8080/05385831973/9874984984984/51
+#EXTINF:-1 tvg-id="NBN" status="timeout", NBN
+https://live-server-2.splitstream.io/37823898-78bc-4e88-b14b-6eb04526e72d/index.m3u8
+#EXTINF:-1 tvg-id="One TV Lebanon" status="timeout", One TV Lebanon
+https://live.3cd.io/v1/broadcast/one/playlist.m3u8
+#EXTINF:-1 tvg-id="OTV" status="online", OTV
+http://62.182.82.104/OTV/index.m3u8
+#EXTINF:-1 tvg-id="Al Quran Al Kareem TV" status="timeout", Al Quran Al Kareem TV
+https://edge.taghtia.com/sa/7.m3u8
+#EXTINF:-1 tvg-id="Al Sunnah Al Nabawiyah TV" status="timeout",Al Sunnah Al Nabawiyah TV
+https://edge.taghtia.com/sa/6.m3u8
+#EXTINF:-1 tvg-id="National Geographic Wild Russia" status="timeout",National Geographic Wild Russia
+https://sc.id-tv.kz/NatGeoWildHD.m3u8
+#EXTINF:-1 tvg-id="Discovery Science HD" status="timeout",Discovery Science HD
+http://momopro.xyz:8080/05385831973/9874984984984/247
+#EXTINF:-1 tvg-id="CNN Turk" status="timeout",CNN Turk
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
+#EXTINF:-1 tvg-id="CNN International" status="timeout",CNN International
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BBC Arabic" status="timeout",BBC Arabic
+https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_cloudfrontms_live.m3u8
+#EXTINF:-1 tvg-id="BBC America" status="timeout",BBC America
+https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-id="DW Arabic" status="timeout",DW Arabic
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:-1 tvg-id="DW English" status="timeout",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="CNBC Arabia" status="timeout",CNBC Arabia
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/CNBCArabia
+#EXTINF:-1 tvg-id="RT Arabic" status="timeout",RT Arabic
+https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
+#EXTINF:-1 tvg-id="TRT Arabi" status="timeout",TRT Arabi
+https://tv-trtarabi.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRT World" status="timeout",TRT World
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="Al Hurra" status="timeout",Al Hurra
+https://mbnv-video-ingest.akamaized.net/hls/live/2038904/MBNV_ALHURRA_MAIN_HLS/merge.m3u8
+#EXTINF:-1 tvg-id="4FUN TV" status="timeout",4FUN TV
+https://stream.4fun.tv:8888/hls/4f.m3u8
+#EXTINF:-1 tvg-id="PowerTurk TV" status="timeout",PowerTurk TV
+https://waw2.artiyerelmedya.net/powerturktv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="Jordan Satellite Channel" status="timeout",Jordan Satellite Channel
+https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
+#EXTINF:-1 tvg-id="Bahrain International" status="timeout",Bahrain International
+https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
+#EXTINF:-1 tvg-id="VH1" status="timeout",VH1
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:-1 tvg-id="Perú Channel" status="online",Perú Channel
+https://stmv3.duvoxtv.com.br/novelapl/novelapl/playlist.m3u8
+#EXTINF:-1 tvg-id="MovieFe" status="online",MovieFe
+https://vcp.myplaytv.com/moviefe/ngrp:moviefe_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Melody Channel Colombia" status="online",Melody Channel Colombia
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Alhiwar TV" status="online",Alhiwar TV
+https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
