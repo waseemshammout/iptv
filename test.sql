@@ -13,5 +13,5 @@ CREATE TABLE tblChannels
     date_added DATETIME
 );
 
-PRINT 'Channel Table Created successfully!'
+PRINT 'Channel Table created successfully!'
 END
