@@ -39,8 +39,6 @@ https://emisoras.hn:8081/kerussotv/index.m3u8
 http://lencatelevision.com:8080/hls/ltv1.m3u8
 #EXTINF:-1 tvg-id="LTV.hn" status="online",LTV (720p) [Not 24/7]
 https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8
-#EXTINF:-1 tvg-id="MayaTV.hn" status="error",Maya TV [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://twitch.tv/mayatvnoticias
 #EXTINF:-1 tvg-id="MetroTV.hn" status="online",La Metro TV (720p)
 https://emisoras.hn:8081/metrotv/index.m3u8
 #EXTINF:-1 tvg-id="QhuboTV.hn" status="online",Q'hubo TV (410p) [Not 24/7]
@@ -51,10 +49,6 @@ http://lencatelevision.com:8080/hls/ltv3.m3u8
 https://srv4.zcast.com.br/roatanhableclaro/roatanhableclaro/playlist.m3u8
 #EXTINF:-1 tvg-id="SercanoTV.hn" status="error",Sercano TV (720p)
 http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="STVETelebasica.hn" status="error",STVE Telebasica [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/STVETELEBASICA
-#EXTINF:-1 tvg-id="SuyapaTV.hn" status="error",Suyapa TV (480p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://dai.ly/x833e2b
 #EXTINF:-1 tvg-id="Teleceiba.hn" status="timeout",Teleceiba
 http://190.11.224.14:8134/liveevent.m3u8
 #EXTINF:-1 tvg-id="TeleDanli.hn" status="online",TeleDanlí (Canal 9) (720p) [Not 24/7]
@@ -85,7 +79,23 @@ https://videoserver.ideskhn.com:3863/live/waldivisionlive.m3u8
 https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8
 #EXTINF:-1 tvg-id="" status="online",Radio Imagen 105.1 FM (La Esperanza) (720p) [Not 24/7]
 http://lencatelevision.com:8080/hls/ltv2.m3u8
-#EXTINF:-1 tvg-id="" status="online",Sula TV (720p)
+#EXTINF:-1 tvg-id="SulaTV.hn" status="online",Sula TV (720p)
 https://sulatv1.ddns.net/hls/live/index.m3u8
-#EXTINF:-1 tvg-id="" status="online",TV Centro 27.2 (720p)
+#EXTINF:-1 tvg-id="TVCentroHD.hn" status="online",TV Centro 27.2 (720p)
 https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
+#EXTINF:-1 tvg-id="TVEstrella.hn",TV Estrella (720p)
+https://emisoras.hn:8081/tvestrella/index.m3u8
+#EXTINF:-1 tvg-id="Canal15DTP.hn",Canal 15 DTP (352p)
+https://emisoras.hn:8081/dtp/index.m3u8
+#EXTINF:-1 tvg-id="JehovaTV.hn",Jehová TV (720p)
+https://video.misistemareseller.com/jehovatelevision/jehovatelevision/playlist.m3u8
+#EXTINF:-1 tvg-id="DTV.hn",DTV (800p)
+https://emisoras.hn:8081/dtv/index.m3u8
+#EXTINF:-1 tvg-id="TelevisionMetropolis191.hn",Televisión Metrópolis 19.1 (1080p)
+https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
+#EXTINF:-1 tvg-id="TelevisionMetropolis192.hn",Televisión Metrópolis 19.2 (1080p)
+Https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
+#EXTINF:-1 tvg-id="SiTV.hn",SiTV [Geo-blocked] 
+https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
+#EXTINF:-1 tvg-id="AztecaHonduras.hn",Azteca Honduras [Geo-blocked] 
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8

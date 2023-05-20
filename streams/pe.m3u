@@ -120,7 +120,7 @@ https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8
 #EXTINF:-1 tvg-id="MasterTV.pe" status="online",Master TV (Tarapoto) (480p) [Not 24/7]
 https://tv.oyotunstream.com:1936/master/master/playlist.m3u8
 #EXTINF:-1 tvg-id="MaticesTV.pe" status="error",MaticesTV (Cañete) (720p) [Not 24/7]
-http://v4.tustreaming.cl/matices/index.m3u8
+https://v4.tustreaming.cl/matices/index.m3u8
 #EXTINF:-1 tvg-id="MegaTVArequipa.pe" status="online",Mega TV (Arequipa) [Not 24/7]
 https://hls.servidor.stream/storage/megatv.m3u8
 #EXTINF:-1 tvg-id="MegaTVJaen.pe" status="online",Mega TV (Jaen) (720p) [Not 24/7]
@@ -138,7 +138,7 @@ http://iptv.perueduca.pe:1935/canal2/canal22/playlist.m3u8
 #EXTINF:-1 tvg-id="MitosTV.pe" status="blocked",MitosTV (Mitos de la Selva | Pucallpa) (480p) [Not 24/7]
 https://inliveserver.com:1936/19018/19018/playlist.m3u8
 #EXTINF:-1 tvg-id="MonterricoTV.pe" status="online",Monterrico TV (1080p) [Not 24/7]
-http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+https://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 #EXTINF:-1 tvg-id="MonterricoTV.pe" status="online",Monterrico TV (1080p) [Not 24/7]
 https://ed3od.live.opencaster.com/jcpstream_hd720/index.m3u8
 #EXTINF:-1 tvg-id="MonterricoTV.pe" status="online",Monterrico TV (1080p) [Not 24/7]
@@ -155,8 +155,6 @@ https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8
 #EXTINF:-1 tvg-id="NorSelvaRTV.pe" status="online",NorSelva RTV [Not 24/7]
 https://live.obslivestream.com/norselvatv/index.m3u8
-#EXTINF:-1 tvg-id="NuestraTVLima.pe" status="error",Nuestra TV Lima [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://twitch.tv/nuestratvlima
 #EXTINF:-1 tvg-id="OasisRTV.pe" status="error",Oasis RTV (Trujillo) (720p) [Not 24/7]
 https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
 #EXTINF:-1 tvg-id="OKTeVe.pe" status="online",OK TeVe (Yurimaguas) (720p) [Not 24/7]
@@ -189,8 +187,6 @@ https://stmv.panel.grupolimalive.com/planeatv/planeatv/playlist.m3u8
 https://stmv.streamingvip.click/primaveratv/primaveratv/playlist.m3u8
 #EXTINF:-1 tvg-id="QTTelevision.pe" status="online",QT Televisión (Cuzco) (720p) [Not 24/7]
 https://servilive.com:3753/live/qosqotimeslive.m3u8
-#EXTINF:-1 tvg-id="RadioCalor.pe" status="error",Radio Calor (Huancayo) (720p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/calortv
 #EXTINF:-1 tvg-id="RadioChalaca.pe" status="error",Radio Chalaca (720p) [Not 24/7]
 https://megastreamm.com:3611/stream/play.m3u8
 #EXTINF:-1 tvg-id="RadioElPueblo.pe" status="online",Radio El Pueblo
@@ -279,8 +275,6 @@ https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
 #EXTINF:-1 tvg-id="TVFacesPeru.pe" status="online",Tvfaces Online (360p) [Not 24/7]
 https://tvdatta.com:3211/stream/play.m3u8
-#EXTINF:-1 tvg-id="TVHuarmey.pe" status="error",TV Huarmey (720p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tvhuarmey
 #EXTINF:-1 tvg-id="TVNoticias73.pe" status="online",TV Noticias 7.3 (768p)
 http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1 tvg-id="TVPalmeras.pe" status="online",TV Palmeras
@@ -323,5 +317,7 @@ https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
 http://177.53.152.186:8000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="" status="timeout",MX Old
 http://177.53.152.186:8000/play/a00g/index.m3u8
-#EXTINF:-1 tvg-id="" status="online",Radio y TV Filadelfia
+#EXTINF:-1 tvg-id="RadioyTvFiladelfia.pe" status="online",Radio y TV Filadelfia
 https://streamlive8.hearthis.at/hls/9355343_orig/index.m3u8
+#EXTINF:-1 tvg-id="Latina.pe",Latina (480p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8

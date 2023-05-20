@@ -41,7 +41,7 @@ https://movil.ejeserver.com/live/visiondorada.m3u8
 https://video.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:-1 tvg-id="CaracolTV.co" status="blocked",Caracol TV (720p) [Geo-blocked]
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
-#EXTINF:-1 tvg-id="CinemaMas.co" status="",Cinema + (720p)
+#EXTINF:-1 tvg-id="CinemaPlus.co" status="",Cinema + (720p)
 http://hvtrafico.ddns.net:1935/cinema720/cinema720.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CNCMedellin.co" status="online",CNC Medellín (720p)
 http://cncmedellin.ddns.net:1935/canalcnc/canalcnc_360p/playlist.m3u8
@@ -106,8 +106,6 @@ https://video.ejeserver.com/live/telesanjacinto.m3u8
 https://stream.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TrecePlus.co" status="online",Trece + (1080p)
 https://stream.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TV5Monteria.co" status="",TV5 Montería Canal 44 (Montería | Córdoba) (1080p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://teveo.com.co/player/AcAAAgAgAANmA1IAyADIUCAAAAAAAAAA.js
 #EXTINF:-1 tvg-id="TVAgro.co" status="timeout",TV Agro
 http://179.1.7.198:1935/live/TVAgroHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGracia.co" status="online",TVGracia (720p)
@@ -122,3 +120,19 @@ https://movil.ejeserver.com/live/veotv.m3u8
 https://video.ejeserver.com/live/veotv.m3u8
 #EXTINF:-1 tvg-id="Zoom.co" status="online",Zoom (Bogotà | Cundinamarca) (1080p)
 https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
+#EXTINF:-1 tvg-id="CanalTelefamilia.co",Canal Telefamilia (360p)
+https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal9.co",Canal 9 Cosespu (720p)
+https://video2.lhdserver.es/canal9cosespu/live.m3u8
+#EXTINF:-1 tvg-id="Canal14Codazzi.co",Canal 14 Codazzi (720p)
+https://eu1.servers10.com:19360/8056/8056.m3u8
+#EXTINF:-1 tvg-id="TamesisTeVe.co",Támesis TeVe (720p)
+https://tvlatina.live:1936/8034/8034/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalTelePalmar.co",Canal TelePalmar (480p)
+https://play.amelbasoluciones.co:3976/live/telepalmartvlive.m3u8
+#EXTINF:-1 tvg-id="MoniTV.co",MoniTV (480p)
+https://servers.amelbasoluciones.co:19360/monitv/monitv.m3u8
+#EXTINF:-1 tvg-id="CanalSantaMartaTV.co",Canal Santa Marta TV (1080p)
+https://tv.portalexpress.es:3863/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="MemoriasTV.co",Memorias TV
+https://mediacp.us:8081/8002/index.m3u8

@@ -44,15 +44,15 @@ https://streamone.simpaisa.com:8443/pitvlive1/mehran.smil/playlist.m3u8
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 tvg-id="PTVHome.pk" status="online",PTV Home (1080p)
 https://ythls.onrender.com/channel/UCMfwlaPLGMn44BKvHv15yzA.m3u8
-#EXTINF:-1 tvg-id="PTVSports.pk" status="timeout",PTV Sports (1080p)
-http://103.81.104.118/hls/stream11.m3u8
 #EXTINF:-1 tvg-id="PTVWorld.pk" status="online",PTV World (480p)
 https://ythls.onrender.com/channel/UCj-e7yp2_-qE-TPritppZGQ.m3u8
 #EXTINF:-1 tvg-id="SindhTVNews.pk" status="online",Sindh TV News
 https://streamone.simpaisa.com:8443/pitvlive1/sindhnews.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ZindagiTV.pk" status="online",Zindagi TV (576p) [Not 24/7]
 https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
-#EXTINF:-1 tvg-id="" status="online",Lahore News (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="LahoreNews.pk" status="online",Lahore News (720p) [Not 24/7]
 https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="online",Neo News HD
+#EXTINF:-1 tvg-id="NeoNews.pk" status="online",Neo News HD
 https://streamone.simpaisa.com:8443/pitvlive1/neo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="GeoNews.pk",Geo News
+https://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd46bf.sdp/playlist.m3u8

@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="Canal10.sv" status="blocked",Canal 10 (720p)
 http://streamingcws20.com:1935/tves/tves.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal12.sv" status="online",Canal 12
-https://d3kk75blondskv.cloudfront.net/hls/canal12.m3u8
+https://do0b1lvn4z8ni.cloudfront.net/hls/canal12.m3u8
 #EXTINF:-1 tvg-id="Canal33.sv" status="blocked",Canal 33 (1080p) [Not 24/7]
 https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal33.sv" status="blocked",Canal 33 (1080p) [Not 24/7]
@@ -21,17 +21,19 @@ https://secure-video.tcsgo.com/tcshd/index.m3u8
 https://cm.hostlagarto.com:4445/TRIBUNA-TV/tribuna.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCa.sv" status="online",TVCa Televisión Católica Arquidiocesana (720p)
 https://tv.infosal.com:5443/LiveApp/streams/908264309507938591071465.m3u8
-#EXTINF:-1 tvg-id="TVMElSalvador.sv" status="error",TVM El Salvador (720p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tvmelsalvador
 #EXTINF:-1 tvg-id="TVOCanal23.sv" status="blocked",TVO Canal 23 (720p) [Not 24/7]
 https://5fc584f3f19c9.streamlock.net/tvo/smil:tvo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="WOWTV.sv" status="online",WOW TV (576p) [Not 24/7]
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" status="online",Canal TRV (480p)
 https://stream.oursnetworktv.com/latin/encoder44/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="online",El Camino TV (480p)
+#EXTINF:-1 tvg-id="ElCaminoTV.sv" status="online",El Camino TV (480p)
 https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
 #EXTINF:-1 tvg-id="" status="online",Sol TV Morazán (1080p)
 http://rtmp.info:1935/soltv/envivo/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="online",Taber TV (1080p)
+#EXTINF:-1 tvg-id="TaberTV.sv" status="online",Taber TV (1080p)
 https://5ca9af4645e15.streamlock.net/tabertv/smil:tabertv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal11TuTV.sv",Canal 11 TuTV
+https://streaming.grupocsanetwork.net:1936/canal11/canal11/playlist.m3u8
+#EXTINF:-1 tvg-id="OrbitaTV.sv",Orbita TV
+https://ssh101.bozztv.com/ssh101/OrbitaTV25/playlist.m3u8

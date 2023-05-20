@@ -17,12 +17,36 @@ http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index.m3u8
 #EXTINF:-1 tvg-id="AmritaTV.in" status="online",Amrita TV (576p)
 http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
+#EXTINF:-1 tvg-id="AngelTVAfrica.in" status="online",Angel TV Africa (720p)
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelafrica_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AngelTVAmerica.in" status="online",Angel TV America (720p)
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelamerica_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AngelTVArabia.in" status="online",Angel TV Arabia (720p)
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelarabia_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AngelTVAustralia.in" status="online",Angel TV Australia (720p)
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelaustralia_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AngelTVChinese.in" status="online",Angel TV Chinese (720p)
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelchinese_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AngelTVEurope.in" status="online",Angel TV Europe (720p)
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angeleurope_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AngelTVFarEast.in" status="online",Angel TV Far East (720p)
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelfareast_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AngelTVHebrew.in" status="online",Angel TV Hebrew (720p)
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelhebrew_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AngelTVIndia.in" status="online",Angel TV India (720p)
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelindia_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AngelTVPortuguese.in" status="online",Angel TV Portuguese (720p)
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelportuguese_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AngelTVRussian.in" status="online",Angel TV Russian (720p)
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelrussia_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AngelTVSpanish.in" status="online",Angel TV Spanish (720p)
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelspanish_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AnjanTV.in" status="online",Anjan (720p) [Not 24/7]
 https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
 #EXTINF:-1 tvg-id="ArtistAloud.in" status="online",Artist Aloud (1080p) [Not 24/7]
 https://live.hungama.com/linear/artist-aloud/playlist.m3u8
 #EXTINF:-1 tvg-id="AshrafiChannel.in" status="online",Ashrafi Channel (484p) [Not 24/7]
-http://ashrafichannel.livebox.co.in/ashrafivhannelhls/live.m3u8
+https://ashrafichannel.livebox.co.in/ashrafivhannelhls/live.m3u8
 #EXTINF:-1 tvg-id="AsianetMiddleEast.in" status="timeout",Asianet Middle East (576p) [Not 24/7]
 http://14.199.164.20:4001/play/a0k6/index.m3u8
 #EXTINF:-1 tvg-id="AsianetNews.in" status="online",Asianet News (576p)
@@ -87,6 +111,8 @@ http://cdn12.henico.net:8080/live/jbani/index.m3u8
 https://idvd.multitvsolution.com/idvo/imayamtv.m3u8
 #EXTINF:-1 tvg-id="IndiaToday.in" status="online",India Today (720p) [Not 24/7]
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:-1 tvg-id="ImayamTV.in",Imayam (720p)
+https://server1.thewebworld.in:3114/live/iniyantvlive.m3u8
 #EXTINF:-1 tvg-id="IsaiAruvi.in" status="online",Isai Aruvi (576p)
 http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
 #EXTINF:-1 tvg-id="JaihindTV.in" status="online",Jaihind TV (576p)
@@ -270,8 +296,6 @@ http://103.81.104.118/hls/stream8.m3u8
 http://newsmaffia.casacam.net:1935/newsmaffia/newsmaffia/playlist.m3u8
 #EXTINF:-1 tvg-id="" status="online",Desi Channel (720p)
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="online",FASTWAY NEWS (720p) [Not 24/7]
-http://163.47.214.155:1935/fwnews/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" status="timeout",Filmeraa (720p)
 https://a.jsrdn.com/broadcast/7ef91d3d7a/+0000/c.m3u8
 #EXTINF:-1 tvg-id="" status="online",Indywood TV
@@ -284,19 +308,17 @@ http://59c3ec70cfde0.streamlock.net/channel_6/channel6/playlist.m3u8
 http://192.99.2.28/mandra_hls/mandra.m3u8
 #EXTINF:-1 tvg-id="" status="online",Sada TV (1080p) [Not 24/7]
 http://cdn12.henico.net:8080/live/sadatv/index.m3u8
-#EXTINF:-1 tvg-id="" status="online",Sardari TV (1080p) [Not 24/7]
-http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="timeout",Sony BBC Earth HD (1080p)
+#EXTINF:-1 tvg-id="SonyBBCEarth.in" status="timeout",Sony BBC Earth HD (1080p)
 http://103.81.104.118/hls/stream5.m3u8
 #EXTINF:-1 tvg-id="" status="online",Star Cinema (576p)
 http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8
 #EXTINF:-1 tvg-id="" status="online",Star Family (576p)
 http://c0.cdn.trinity-tv.net/stream/zfmjgma9zn46fa797ez9fgkw7msh9mj4tppspg23gey6mmx5fqiy7ky3jqx4uhgsfsrd8r76si8ykb2anw9442g4qkq5fzpdvwdqf5te24ixu9zrx3aesm9fzt59q5y2s8qwgbqhvf6d3z5bjy3qb2t4.m3u8
-#EXTINF:-1 tvg-id="" status="timeout" user-agent="stream",Star Gold HD (1080p)
+#EXTINF:-1 tvg-id="StarGold.in" status="timeout" user-agent="stream",Star Gold HD (1080p)
 #EXTVLCOPT:http-user-agent=stream
 http://103.81.104.118/hls/stream19.m3u8
 #EXTINF:-1 tvg-id="" status="online",Suriyan TV
-http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
+https://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
 #EXTINF:-1 tvg-id="" status="timeout",Toonz Kids (Indonesian dub) (360p)
 http://210.210.155.37/x6bnqe/s/s81/02.m3u8
 #EXTINF:-1 tvg-id="" status="timeout",Toonz Kids (Indonesian dub) (576p)
@@ -308,3 +330,17 @@ http://95.216.167.183:5080/LiveApp/streams/443106610169904881506470.m3u8
 https://hls.media.nic.in/hls/live/vyas/vyas.m3u8
 #EXTINF:-1 tvg-id="" status="online",Zainabia Channel
 https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
+#EXTINF:-1 tvg-id="RajNewsMalayalam.in",Raj News Malayalam
+https://rajnewsmalayalam.ylivestream.com/rajnewsmalayalam/index.m3u8
+#EXTINF:-1 tvg-id="ZeeNews.in",Zee News
+https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8
+#EXTINF:-1 tvg-id="ZeeBusiness.in",Zee Business
+https://d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f44319e882da947377364/index_3.m3u8
+#EXTINF:-1 tvg-id="PublicTV.in",Public TV
+https://livestream.knowtable.xyz:5443/show/streams/Publictv_adaptive.m3u8
+#EXTINF:-1 tvg-id="ZeeBusiness.in",Zee Business
+https://d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f44319e882da947377364/index_5.m3u8
+#EXTINF:-1 tvg-id="ETNow.in",ETNow
+https://etnowweblive.akamaized.net/hls/live/2034678/ETNOWMSL4/chunklist_2.m3u8
+#EXTINF:-1 tvg-id="ShemarooMarathiBana.in",Shemaroo Marathi Bana
+https://livetv-channels.b-cdn.net/8042/chunklist0.m3u8

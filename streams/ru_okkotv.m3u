@@ -5,8 +5,6 @@ https://okkotv-live.cdnvideo.ru/channel/A1_HD.m3u8
 https://okkotv-live.cdnvideo.ru/channel/A2_HD.m3u8
 #EXTINF:-1 tvg-id="AmediaHit.ru" status="blocked",Amedia Hit (1080p) [Geo-blocked]
 https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD.m3u8
-#EXTINF:-1 tvg-id="BabyTV.uk" status="blocked",Baby TV (480p)
-http://okkotv-live.cdnvideo.ru/channel/BabyTV.m3u8
 #EXTINF:-1 tvg-id="black.ru" status="blocked",.black Russia (480p) [Geo-blocked]
 https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
 #EXTINF:-1 tvg-id="Channel5.ru" status="blocked",5 канал (480p) [Geo-blocked]
@@ -87,5 +85,5 @@ https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
 https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
 #EXTINF:-1 tvg-id="Zvezda.ru" status="blocked",Звезда (480p) [Geo-blocked]
 https://okkotv-live.cdnvideo.ru/channel/Zvezda_SD.m3u8
-#EXTINF:-1 tvg-id="" status="blocked",Россия 1 HD (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Russia1.ru" status="blocked",Россия 1 HD (1080p) [Geo-blocked]
 https://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
