@@ -1,5 +1,4 @@
 import os
-
 currentdirectory = os.path.dirname(os.path.abspath(__file__))
 
 def log_that_line(logWhat):
@@ -8,7 +7,6 @@ def log_that_line(logWhat):
 
 def insert_that_channel(channel_name, url):
     import psycopg2
-
     con = psycopg2.connect(
         database="iptv",
         user="postgres",
@@ -17,7 +15,8 @@ def insert_that_channel(channel_name, url):
         port='5432'
     )
     cursor_obj = con.cursor()
-    cursor_obj.execute("INSERT INTO f_channels (channel_name, url) VALUES ('" + channel_name + "', '" + url + "');")
+    cursor_obj.execute(
+        "INSERT INTO f_channels (channel_name, url) VALUES ('" + channel_name + "', '" + url + "');")
     con.commit()
     con.close()
 
@@ -30,7 +29,6 @@ def LastCommaPosition(text):
         RepNum = text.find(',', RepNum)
         RepNum += 1
     return RepNum - 1
-
 
 x = 0
 row_complete = True
