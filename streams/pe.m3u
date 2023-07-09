@@ -9,20 +9,24 @@ https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 tvg-id="AsiriTV.pe",AsiriTV (Lima) (720p) [Not 24/7]
 https://video2.lhdserver.es/asiritv/live.m3u8
+#EXTINF:-1 tvg-id="ATMTelevision.pe",ATM Televisión (720p)
+https://v4.tustreaming.cl/atmtv/index.m3u8
 #EXTINF:-1 tvg-id="ATV.pe",ATV (720p) [Not 24/7]
-https://atvperu.akamaized.net/hls/live/2100630/atv/master.m3u8
-#EXTINF:-1 tvg-id="ATVPlus.pe",ATV+ Noticias (720p) [Not 24/7]
-https://atvmas.akamaized.net/hls/live/2101282/atvmas/master.m3u8
+https://d22ast2s6i1kcc.cloudfront.net/hls/atv_720.m3u8
+#EXTINF:-1 tvg-id="ATVPlus.pe",ATV+ Noticias (480p) [Not 24/7]
+https://d22ast2s6i1kcc.cloudfront.net/hls/atv2_480.m3u8
+#EXTINF:-1 tvg-id="ATVSur.pe",ATV Sur (720p) [Not 24/7]
+https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="AutenticaTelevision.pe",Auténtica Televisión (720p) [Not 24/7]
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1 tvg-id="BestCableMasCumbia.pe",Best Cable Mas Cumbia
-https://ca2.inka.net.pe/mascumbiatvonline/index.m3u8
+https://ca2.inka.net.pe/best-MasCum-0100210011/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BestCableMusic.pe",Best Cable Music
-https://ca2.inka.net.pe/bestcablemusic/index.m3u8
+https://ca2.inka.net.pe/best-Music-0011200000/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BestCablePeru.pe",Best Cable Peru
 https://ca2.inka.net.pe/bestcable/index.m3u8
 #EXTINF:-1 tvg-id="BestCableSportsPeru.pe",Best Cable Sports Peru
-https://ca2.inka.net.pe/bestcablesports/index.m3u8
+https://ca2.inka.net.pe/Best-sport-000000111/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BHTV.pe",BHTV (720p) [Not 24/7]
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="CadenaTV.pe",Cadena TV
@@ -49,6 +53,8 @@ https://tvdatta.com:3548/live/chinchatvlive.m3u8
 https://servilive.com:3176/live/cineclublive.m3u8
 #EXTINF:-1 tvg-id="ClipsTV.pe",ClipsTV (Ica) (360p) [Not 24/7]
 https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8
+#EXTINF:-1 tvg-id="CNCCajamarca.pe",CNC Cajamarca (720p)
+https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
 #EXTINF:-1 tvg-id="CNCDigital.pe",CNC Digital
 https://vdo.panelstreaming.live:3859/live/cncdigitallive.m3u8
 #EXTINF:-1 tvg-id="CNTV.pe",CN TV [Not 24/7]
@@ -69,6 +75,8 @@ https://live.obslivestream.com/crtvmux/index.m3u8
 http://190.108.83.142:8000/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="Cultura24.pe",Cultura 24 (360p) [Not 24/7]
 https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
+#EXTINF:-1 tvg-id="DiarioHechicera.pe",Hechicera TV (720p)
+https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8
 #EXTINF:-1 tvg-id="DiasporaTV.pe",Diáspora TV [Not 24/7]
 https://s1.tvdatta.com:3804/live/diasporatvlive.m3u8
 #EXTINF:-1 tvg-id="DMJ.pe",DMJ (Cuzco) (720p) [Not 24/7]
@@ -88,7 +96,9 @@ https://live.obslivestream.com/geniostvmux/index.m3u8
 #EXTINF:-1 tvg-id="GlobalTV.pe",Global TV
 http://190.108.83.142:8000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="HatunTV.pe",Hatun TV
-https://ca2.inka.net.pe/bestcablehatuntv/index.m3u8
+https://ca2.inka.net.pe/Best00Hatum-00321012/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Hoynet.pe",Hoynet (360p)
+https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
 #EXTINF:-1 tvg-id="HuachoPeruTV.pe",Huacho Perú TV [Not 24/7]
 https://paneltv.rstreaminghd.net:3777/live/huachoperutvlive.m3u8
 #EXTINF:-1 tvg-id="HuanucoenVivo.pe",Huánuco en Vivo (480p) [Not 24/7]
@@ -97,12 +107,16 @@ https://stmv.panel.grupolimalive.com/antonio/antonio/playlist.m3u8
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
 #EXTINF:-1 tvg-id="ImagenTelevisionRioja.pe",Imagen Televisión (Rioja) (720p) [Not 24/7]
 http://191.97.56.183:1935/imagentv/imagentv/playlist.m3u8
+#EXTINF:-1 tvg-id="ImpactoTelevision.pe",Impacto Televisión (360p) [Not 24/7]
+https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 #EXTINF:-1 tvg-id="ImperialTelevision.pe",Imperial Televisión (Huancayo) (720p) [Not 24/7]
 https://stmv.panel.grupolimalive.com/imperu/imperu/playlist.m3u8
 #EXTINF:-1 tvg-id="IntuitivaTV.pe",Intuitiva TV
 https://video2.lhdserver.es/cableperu/live.m3u8
 #EXTINF:-1 tvg-id="JN19.pe",JN19 (720p) [Not 24/7]
 https://servilive.com:3149/live/jn19tvlive.m3u8
+#EXTINF:-1 tvg-id="JNETV.pe",JNE TV (720p) [Not 24/7]
+https://dc1.webstream.eu/v1/jnetvhdstreaming/rtd144395a1/webstr,_video,_video_sd,_video_sd2,.mp4.urlset/master.m3u8
 #EXTINF:-1 tvg-id="Karibena.pe",Karibeña (720p) [Not 24/7]
 https://cu.onliv3.com/livevd/user1.m3u8
 #EXTINF:-1 tvg-id="LaAbeja.pe",La Abeja (720p) [Not 24/7]
@@ -113,8 +127,6 @@ http://190.108.83.142:8000/play/a00b/index.m3u8
 http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8
 #EXTINF:-1 tvg-id="LaRiberena.pe",La Ribereña (Pucallpa) (480p) [Not 24/7]
 https://cloudvideo.servers10.com:8081/8070/index.m3u8
-#EXTINF:-1 tvg-id="Latina.pe",Latina (480p) [Geo-blocked]
-https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
 #EXTINF:-1 tvg-id="LimaLive.pe",LimaLive
 https://vdo.grupolimalive.com:3245/multi_web/play_720.m3u8
 #EXTINF:-1 tvg-id="LotPlusTV.pe",LotPlus TV (Chiclayo) (720p) [Not 24/7]
@@ -175,6 +187,8 @@ https://cdnhd.iblups.com/hls/ptv2.m3u8
 https://d1oxkaep074koq.cloudfront.net/out/v1/6657a374459f4821b404e16161c98588/playlist.m3u8
 #EXTINF:-1 tvg-id="PBO.pe",PBO Digital (720p) [Not 24/7]
 https://ythls.onrender.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
+#EXTINF:-1 tvg-id="PeruChannel.br",Perú Channel (720p)
+https://stmv1.duvoxtv.com.br/peruchannel/peruchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="PeruMagico.pe",Peru Magico (480p) [Not 24/7]
 http://38.131.11.9:1080/play/a0dh
 #EXTINF:-1 tvg-id="PeruvianRadioTV.pe",PeruvianRadio TV [Not 24/7]
@@ -221,10 +235,14 @@ https://multimedia.tmcreativos.com:1936/wsgzmqbxse/wsgzmqbxse/playlist.m3u8
 http://38.131.11.9:1080/play/a0d8
 #EXTINF:-1 tvg-id="RTVTotalYurimaguas.pe",RTV Total (Yurimaguas) (480p) [Not 24/7]
 https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
+#EXTINF:-1 tvg-id="RWTelevisionTarapoto.pe",RW Televisión Tarapoto (720p) [Not 24/7]
+https://live.obslivestream.com/rwtv/index.m3u8
 #EXTINF:-1 tvg-id="SanjuaneraTV.pe",SanjuaneraTV [Not 24/7]
 https://live.obslivestream.com/sanjuanera/index.m3u8
 #EXTINF:-1 tvg-id="SelvaMiaTV.pe",SelvaMía TV (Aguaytía) (360p) [Not 24/7]
 https://inliveserver.com:1936/18022/18022/playlist.m3u8
+#EXTINF:-1 tvg-id="SenalPeruTV.pe",Señal Perú TV (404p) [Not 24/7]
+https://livestream.perucast.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Sistema1.pe",Sistema 1 [Not 24/7]
 https://paneltv.rstreaminghd.net:3042/live/sistema1tvlive.m3u8
 #EXTINF:-1 tvg-id="SolStereoTV.pe",Sol Stereo TV
@@ -284,15 +302,15 @@ http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1 tvg-id="TVPalmeras.pe",TV Palmeras
 https://video.ingenioperu.com:3681/live/palmerastvlive.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe",TV Perú [Not 24/7]
-http://190.108.83.142:8000/play/a00i/index.m3u8
+https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_2.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe",TV Perú (450p) [Not 24/7]
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-id="TVPeruanisima.pe",TV Peruanísima (720p) [Not 24/7]
 http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPeruInternacional.pe",TV Perú Internacional (460p) [Not 24/7]
-http://cdnh4.iblups.com/hls/irtp.m3u8
+https://dy8y8vcruqztn.cloudfront.net/out/v1/ee2450c81e554f4cae0e6292106993c2/index_2.m3u8
 #EXTINF:-1 tvg-id="TVPeruNoticias.pe",TV Perú Noticias (768p) [Not 24/7]
-https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
+https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index_2.m3u8
 #EXTINF:-1 tvg-id="TVSistemasCuzco.pe",TV Sistemas Cuzco (Cuzco) (360p) [Not 24/7]
 https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
 #EXTINF:-1 tvg-id="UchuTV.pe",Uchu TV (Cusco) [Not 24/7]
@@ -303,6 +321,10 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/acda902f73a646daac3fdc9dcddbc971/p
 https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8
 #EXTINF:-1 tvg-id="UranioTV.pe",Uranio TV (Yurimaguas) (720p) [Not 24/7]
 https://live.obslivestream.com/uraniotv/index.m3u8
+#EXTINF:-1 tvg-id="USILTV.pe",USIL TV (720p)
+https://per01-lim01.servidor.stream/usiltv/index.m3u8
+#EXTINF:-1 tvg-id="USMPTV.pe",USMPTV (720p)
+https://streamusmptv.ddns.net/live/stream.m3u8
 #EXTINF:-1 tvg-id="VamisaTV.pe",VamisaTV
 https://inliveserver.com:1936/9506/9506/playlist.m3u8
 #EXTINF:-1 tvg-id="ViaAltomayo.pe",Vía Altomayo (720p) [Not 24/7]
@@ -315,37 +337,13 @@ https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
 #EXTINF:-1 tvg-id="VNP.pe",Visión Noticias Perú (VNP) (720p) [Not 24/7]
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
+#EXTINF:-1 tvg-id="VZTV.pe",VZ TV (720p)
+https://live.obslivestream.com/vztv/index.m3u8
 #EXTINF:-1 tvg-id="XTVChachapoyas.pe",X TV (Chachapoyas)
 https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
 #EXTINF:-1 tvg-id="",K-Pop Channel
 http://177.53.152.186:8000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="",MX Old
 http://177.53.152.186:8000/play/a00g/index.m3u8
-#EXTINF:-1 tvg-id="DiarioHechicera.pe",Hechicera TV (720p)
-https://video.misistemareseller.com:443/corporationhc/corporationhc/playlist.m3u8
-#EXTINF:-1 tvg-id="",Cable Perú TV (720p)
-https://video2.lhdserver.es/cableperu/live.m3u8
-#EXTINF:-1 tvg-id="ImpactoTelevision.pe",Impacto Televisión (360p) [Not 24/7]
-https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
-#EXTINF:-1 tvg-id="CNCCajamarca.pe",CNC Cajamarca (720p)
-https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
-#EXTINF:-1 tvg-id="JNETV.pe",JNE TV (720p) [Not 24/7]
-https://dc1.webstream.eu/v1/jnetvhdstreaming/rtd144395a1/webstr,_video,_video_sd,_video_sd2,.mp4.urlset/master.m3u8
-#EXTINF:-1 tvg-id="Hoynet.pe",Hoynet (360p)
-https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
-#EXTINF:-1 tvg-id="RWTelevisionTarapoto.pe",RW Televisión Tarapoto (720p) [Not 24/7]
-https://live.obslivestream.com/rwtv/index.m3u8
-#EXTINF:-1 tvg-id="USILTV.pe",USIL TV (720p)
-https://per01-lim01.servidor.stream/usiltv/index.m3u8
-#EXTINF:-1 tvg-id="USMPTV.pe",USMPTV (720p)
-https://streamusmptv.ddns.net/live/stream.m3u8
-#EXTINF:-1 tvg-id="ATVSur.pe",ATV Sur (720p) [Not 24/7]
-https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ATMTelevision.pe",ATM Televisión (720p)
-https://v4.tustreaming.cl/atmtv/index.m3u8
-#EXTINF:-1 tvg-id="PeruChannel.br",Perú Channel (720p)
-https://stmv1.duvoxtv.com.br/peruchannel/peruchannel/playlist.m3u8
-#EXTINF:-1 tvg-id="VZTV.pe",VZ TV (720p)
-https://live.obslivestream.com/vztv/index.m3u8
-#EXTINF:-1 tvg-id="SenalPeruTV.pe",Señal Perú TV (404p) [Not 24/7]
-https://livestream.perucast.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Latina.pe",Latina (720p) [Geo-blocked]
+https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
