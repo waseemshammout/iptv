@@ -625,6 +625,8 @@ http://cdn-01.bonus-tv.ru:8080/vmesterf/index.m3u8
 https://uiptv.do.am/1ufc/118056781/playlist.m3u8
 #EXTINF:-1 tvg-id="Volgograd1.ru",Волгоград 1 (1080p) [Geo-blocked]
 https://strm.yandex.ru/kal/volgograd1/volgograd10.m3u8
+#EXTINF:-1 tvg-id="Volgograd24.ru",Волгоград 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="VTVPlus.ua",ВТВ Плюс (Херсон) (576p)
 http://193.107.128.8:8552/play/a007
 #EXTINF:-1 tvg-id="VTVPlus.ua",ВТВ Плюс (Херсон) (576p)
@@ -668,7 +670,7 @@ http://37.193.6.155:34040/udp/239.1.9.2:1234
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1 tvg-id="",TRK 555 (720p)
 http://trk555.tv:8888/live
-#EXTINF:-1 tvg-id="",Дайвинг.TV (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="DivingTV.ru",Дайвинг.TV (720p) [Geo-blocked]
 https://strm.yandex.ru/kal/diving/diving0.m3u8
 #EXTINF:-1 tvg-id="",Дождь (1080p) [Geo-blocked]
 https://strm.yandex.ru/kal/tvrain/tvrain0.m3u8
@@ -682,7 +684,7 @@ http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
 https://strm.yandex.ru/kal/kinoclassic/kinoclassic0.m3u8
 #EXTINF:-1 tvg-id="",Крым 24 (540p) [Not 24/7]
 http://mr2live.1tvcrimea.ru:8080/24tvcrimea.m3u8
-#EXTINF:-1 tvg-id="",Кузбасс 1 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="Kuzbass1.ru",Кузбасс 1 (1080p) [Not 24/7]
 https://www.10kanal.ru:1443/10kanal/k24/playlist.m3u8
 #EXTINF:-1 tvg-id="",КФУ ТВ (1080p) [Not 24/7]
 https://cdn.universmotri.ru/live/kfu.sdp/playlist.m3u8
@@ -698,7 +700,7 @@ http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
 https://sc.id-tv.kz/1KanalEvraziya.m3u8
 #EXTINF:-1 tvg-id="",Радио 10 (1024p) [Not 24/7]
 http://langate.tv/acc/playlist.m3u8
-#EXTINF:-1 tvg-id="",Россия РТР
+#EXTINF:-1 tvg-id="RTRPlaneta.ru",Россия РТР
 https://a3569455801-s26881.cdn.ngenix.net/live/smil:rtrp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="",Телеканал 86 (Сургут) (1080p) [Not 24/7]
 https://sitv.ru/hls/s86.m3u8

@@ -5,7 +5,7 @@ http://82.212.74.2:8000/live/7307.m3u8
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
 #EXTINF:-1 tvg-id="AltaghierTV.jo",Altaghier TV (1080p)
 #EXTVLCOPT:http-referrer=https://player.castr.com/
-https://stream.castr.com/63c63697632705047ffda2da/live_d33349a0962a11ed907dd9e556777b63/playlist.m3u8
+https://stream.castr.com/63c63697632705047ffda2da/live_d33349a0962a11ed907dd9e556777b63/rewind-3600.m3u8
 #EXTINF:-1 tvg-id="AmmanTV.jo",Amman TV (720p)
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
 #EXTINF:-1 tvg-id="AOneTV.jo",A One TV
@@ -14,6 +14,10 @@ https://master.starmena-cloud.com/hls/a1jo.m3u8
 https://ghaasiflu.online/alhqeqa/index.m3u8
 #EXTINF:-1 tvg-id="FajerTV2.ps",Fajer 2 TV (720p)
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
+#EXTINF:-1 tvg-id="Hala.jo",Hala (720p)
+https://api.new.livestream.com/accounts/8525652/events/4001070/live.m3u8
+#EXTINF:-1 tvg-id="",Hala | Presenter (288p)
+https://api.new.livestream.com/accounts/8525652/events/3799665/live.m3u8
 #EXTINF:-1 tvg-id="IsmaoonaTV.jo",Ismaoona TV (720p)
 http://82.212.74.4:8000/live/2105.m3u8
 #EXTINF:-1 tvg-id="JawharaFM.jo",Jawhara FM (720p) [Not 24/7]

@@ -5,20 +5,20 @@ def log_that_line(logWhat):
     with open(currentdirectory + '\\output.csv', 'a') as file1:
         file1.writelines(logWhat)
 
-def insert_that_channel(channel_name, url):
-    import psycopg2
-    con = psycopg2.connect(
-        database="iptv",
-        user="postgres",
-        password="pgAdmin",
-        host="localhost",
-        port='5432'
-    )
-    cursor_obj = con.cursor()
-    cursor_obj.execute(
-        "INSERT INTO f_channels (channel_name, url) VALUES ('" + channel_name + "', '" + url + "');")
-    con.commit()
-    con.close()
+# def insert_that_channel(channel_name, url):
+#     import psycopg2
+#     con = psycopg2.connect(
+#         database="iptv",
+#         user="postgres",
+#         password="pgAdmin",
+#         host="localhost",
+#         port='5432'
+#     )
+#     cursor_obj = con.cursor()
+#     cursor_obj.execute(
+#         "INSERT INTO f_channels (channel_name, url) VALUES ('" + channel_name + "', '" + url + "');")
+#     con.commit()
+#     con.close()
 
 
 # This function finds the last comma character index number within a text

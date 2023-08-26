@@ -9,10 +9,6 @@ https://edge.taghtia.com/sa/4.m3u8
 https://ythls.onrender.com/channel/UCV01ajGl6nt09h40iDoHDNg.m3u8
 #EXTINF:-1 tvg-id="AlKhalijTV.sa",Al Khalij (720p) [Not 24/7]
 https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
-#EXTINF:-1 tvg-id="AlMajdHolyQuran.sa",Al-Majd Holy Quran (576p)
-https://streann-msl4.akamaized.net/hls/live/2043201/quranhls2/master.m3u8
-#EXTINF:-1 tvg-id="AlMajdScientific.sa",Al-Majd Scientific (576p)
-https://streann-msl4.akamaized.net/hls/live/2043217/sciencehls/master.m3u8
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa",Al Quran Al Kareem TV (Mecca) (720p) [Not 24/7]
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa",Al Quran Al Kareem TV (Mecca) (1080p) [Not 24/7]
@@ -45,8 +41,6 @@ https://bcovlive-a.akamaihd.net/ed81ac1118414d4fa893d3a83ccec9be/eu-central-1/62
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 #EXTINF:-1 tvg-id="AtfalMawahebTV.sa",Atfal & Mawaheb TV (1080p)
 https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
-#EXTINF:-1 tvg-id="Ayaat.sa",Ayaat (720p)
-https://stream.holol.com/live/ayat/playlist.m3u8
 #EXTINF:-1 tvg-id="Ayaat.sa",Ayaat (720p)
 https://ythls.onrender.com/channel/UC89SSMnCKzXdZsIs_GB6QBg.m3u8
 #EXTINF:-1 tvg-id="Beity.sa",Beity
@@ -81,11 +75,13 @@ https://edge.taghtia.com/sa/14.m3u8
 https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
 #EXTINF:-1 tvg-id="QuranRadio.sa",Quran Radio (720p)
 https://edge.taghtia.com/sa/13.m3u8
-#EXTINF:-1 tvg-id="RotanaCinemaEgypt.eg",Rotana Cinema (1080p)
+#EXTINF:-1 tvg-id="RotanaCinemaEgypt.eg",Rotana Cinema Egypt (1080p)
 https://daiconnect.com/live/hls/rotana/cinema-masr-egypt/.m3u8
-#EXTINF:-1 tvg-id="RotanaCinemaEgypt.eg",Rotana Cinema (1080p)
+#EXTINF:-1 tvg-id="RotanaCinemaEgypt.eg",Rotana Cinema Egypt (1080p)
 https://rotanastudios-rotanacinema-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RotanaCinemaEgypt.eg",Rotana Cinema (1080p)
+#EXTINF:-1 tvg-id="RotanaCinemaEgypt.eg",Rotana Cinema Egypt (1080p)
+https://shls-masr2-ak.akamaized.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
+#EXTINF:-1 tvg-id="RotanaCinemaEgypt.eg",Rotana Cinema KSA (1080p)
 https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
 #EXTINF:-1 tvg-id="RotanaCinemaKSA.sa",Rotana Cinema KSA (1080p)
 https://daiconnect.com/live/hls/rotana/cinema-ksa/.m3u8
@@ -97,15 +93,13 @@ https://daiconnect.com/live/hls/rotana/classical/.m3u8
 https://rotanastudios-rotanaclassic-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RotanaClassic.sa",Rotana Classic (1080p)
 https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8
-#EXTINF:-1 tvg-id="RotanaClip.sa",Rotana Clip (1080p) [Geo-blocked]
-http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://rotana.net/live-clip
-#EXTINF:-1 tvg-id="RotanaComedy.sa",Rotana Comedy (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="RotanaComedy.sa",Rotana Comedy (1080p) 
 https://daiconnect.com/live/hls/rotana/comedy/.m3u8
-#EXTINF:-1 tvg-id="RotanaComedy.sa",Rotana Comedy (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="RotanaComedy.sa",Rotana Comedy (1080p) 
 https://rotanastudios-rotanacomedy-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RotanaDrama.sa",Rotana Drama (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="RotanaDrama.sa",Rotana Drama (1080p) 
 https://daiconnect.com/live/hls/rotana/drama/.m3u8
-#EXTINF:-1 tvg-id="RotanaDrama.sa",Rotana Drama (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="RotanaDrama.sa",Rotana Drama (1080p)
 https://rotanastudios-rotanadrama-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RotanaKhalijia.sa",Rotana Khalijia (1080p)
 https://daiconnect.com/live/hls/rotana/khaleejiya/.m3u8
@@ -127,8 +121,6 @@ https://edge.taghtia.com/sa/1.m3u8
 https://sbc-prod-dub-ak.akamaized.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/index.m3u8
 #EXTINF:-1 tvg-id="SSCActionWaleed.sa",SSC Action Waleed (1080p) [Not 24/7]
 https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8
-#EXTINF:-1 tvg-id="SSCActionWaleedExtra.sa",SSC Action Waleed Extra (1080p) [Not 24/7]
-https://d2x08mwxhmpplo.cloudfront.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8
 #EXTINF:-1 tvg-id="ThikrayatTV.sa",Thikrayat TV (1080p) [Not 24/7]
 https://edge.taghtia.com/sa/3.m3u8
 #EXTINF:-1 tvg-id="ThikrayatTV.sa",Thikrayat TV (1080p) [Not 24/7]
