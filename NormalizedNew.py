@@ -1,6 +1,7 @@
 import os
 currentdirectory = os.path.dirname(os.path.abspath(__file__))
 
+
 def log_that_line(logWhat):
     with open(currentdirectory + '\\output.csv', 'a') as file1:
         file1.writelines(logWhat)
@@ -29,6 +30,7 @@ def LastCommaPosition(text):
         RepNum = text.find(',', RepNum)
         RepNum += 1
     return RepNum - 1
+
 
 x = 0
 row_complete = True
