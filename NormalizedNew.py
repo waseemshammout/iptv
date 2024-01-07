@@ -46,3 +46,4 @@ for y, filename in enumerate(os.listdir(channel_directory)):
     print(filename)
     x += 1
 print(x, 'files completed')
+rahaf = input('Press anykey to continue')

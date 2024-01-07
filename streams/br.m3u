@@ -36,7 +36,7 @@ https://evpp.mm.uol.com.br/geob_band/app/playlist.m3u8
 #EXTINF:-1 tvg-id="Band.br" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",Band (1080p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
-#EXTINF:-1 tvg-id="",Band Minas (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="BandMinasGerais.br",Band Minas (720p) [Not 24/7]
 http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
 #EXTINF:-1 tvg-id="BandNews.br" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",Bandnews (720p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
@@ -77,15 +77,15 @@ https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8
 http://189.51.193.70:1935/canalsete/xpl-c7/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalTVRio.br",Canal TV Rio (720p)
 https://video01.logicahost.com.br/canaltvrio/canaltvrio/playlist.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkLiveBrazil.br",Cartoon Network FreeLive Brazil (720p)
+#EXTINF:-1 tvg-id="CartoonNetworkLive.br",Cartoon Network FreeLive Brazil (720p)
 https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkLiveBrazil2.br",Cartoon Network FreeLive Brazil 2 (720p)
+#EXTINF:-1 tvg-id="CartoonNetworkLive2.br",Cartoon Network FreeLive Brazil 2 (720p)
 https://playout.cdn.cartoonnetwork.com.br/playout_05/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkLiveLatinAmerica.br",Cartoon Network FreeLive Latam (720p)
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkLiveLatinAmerica2.br",Cartoon Network FreeLive Latam 2 (720p)
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
-#EXTINF:-1 tvg-id="CartoonitoLiveBrazil.br",Cartoonito FreeLive Brazil (720p)
+#EXTINF:-1 tvg-id="CartoonitoLive.br",Cartoonito FreeLive Brazil (720p)
 https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonitoLiveLatinAmerica.br",Cartoonito FreeLive Latam (720p)
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
@@ -121,7 +121,7 @@ http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="DemaisTV.br",Demais TV (720p)
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
-#EXTINF:-1 tvg-id="DiscoveryKidsLiveBrazil.br",Discovery Kids FreeLive Brazil (720p)
+#EXTINF:-1 tvg-id="DiscoveryKidsLive.br",Discovery Kids FreeLive Brazil (720p)
 https://playout.cdn.cartoonnetwork.com.br/playout_07/playlist.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKidsLiveLatinAmerica.br",Discovery Kids FreeLive Latam (720p)
 https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist.m3u8
@@ -219,11 +219,11 @@ https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8
 https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8
 #EXTINF:-1 tvg-id="RecordTVRio.br",Record TV Rio (720p) [Geo-blocked]
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
-#EXTINF:-1 tvg-id="RecordTVRS.br",Record TV RS (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="RecordRS.br",Record TV RS (720p) [Geo-blocked]
 https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8
 #EXTINF:-1 tvg-id="RecordTVSaoPaulo.br",Record TV SP (720p) [Geo-blocked]
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
-#EXTINF:-1 tvg-id="RecordTV.br",RecordTV
+#EXTINF:-1 tvg-id="Record.br",RecordTV
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 tvg-id="RedeBrasil.br",Rede Brasil (432p)
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/.m3u8
@@ -277,7 +277,7 @@ https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m
 https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroCartoon.br",Retrô Cartoon (480p) [Not 24/7]
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
-#EXTINF:-1 tvg-id="SantaCeciliaTV.br",Santa Cecilia TV (288p) [Not 24/7]
+#EXTINF:-1 tvg-id="SantaCeciliaTV.br",Santa Cecilia TV (1080p) [Not 24/7]
 http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8
 #EXTINF:-1 tvg-id="SBTCuiaba.br",SBT Cuiabá (720p)
 https://5ad482a77183d.streamlock.net/sbtsbtmt.com/sbtsbtmt.com/playlist.m3u8
@@ -375,8 +375,6 @@ https://livefocamundo.com:8081/tvcidada/index.m3u8
 https://59f1cbe63db89.streamlock.net:1443/tvcidade/tvcidade/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCidadedePetropolis.br",TV Cidade de Petrópolis (1080p) [Not 24/7]
 https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCidadeOeste.br",TV Cidade Oeste (720p)
-http://radios.primedata.com.br:5080/LiveApp/streams/872258137935361699746456.m3u8?token=undefined
 #EXTINF:-1 tvg-id="TVCidadeVerde.br",TV Cidade Verde (720p)
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCinec.br",TV Cinec (240p) [Not 24/7]

@@ -37,7 +37,7 @@ https://v2.tustreaming.cl/atacamatv/index.m3u8
 https://6362ca6f1fc28.streamlock.net/8028/8028/playlist.m3u8
 #EXTINF:-1 tvg-id="AutonomaTV.cl",Autónoma TV (480p)
 https://stream.wifispeed.cl:3033/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="AXNChile.cl",AXN (1080p)
+#EXTINF:-1 tvg-id="AXN.cl",AXN (1080p)
 https://cvi.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="AysenTV.cl",Aysen TV (720p)
 https://v1.tustreaming.cl/aysentv/index.m3u8
@@ -130,11 +130,9 @@ https://github.com/MachineSystems/archived_m3u8/raw/main/elpinguino_cl.m3u8
 #EXTINF:-1 tvg-id="ElTipografo.cl",El Tipógrafo (1080p)
 http://live.mundogo.cl/mundo/Tipografo/index.m3u8
 #EXTINF:-1 tvg-id="EnerGeek.cl",EnerGeek (720p) [Not 24/7]
-https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
-#EXTINF:-1 tvg-id="EnerGeekRadio.cl",EnerGeek Radio (936p)
+https://wifiexpert-1.energeek.cl/energeek/canal-1/playlist.m3u8
+#EXTINF:-1 tvg-id="EnerGeekRadio.cl",EnerGeek Radio (1080p)
 https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8
-#EXTINF:-1 tvg-id="",EnerGeek Retro (720p) [Not 24/7]
-https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
 #EXTINF:-1 tvg-id="EnfoqueDigitalTV.cl",Enfoque Digital TV (1080p)
 https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
 #EXTINF:-1 tvg-id="EstudioTV.cl",Estudio TV (La Ligua)
@@ -197,7 +195,7 @@ https://5ff3d9babae13.streamlock.net/8042/8042/playlist.m3u8
 https://www.cloudscriptdog.cl:19360/madero-video-01/madero-video-01.m3u8
 #EXTINF:-1 tvg-id="Maulevision.cl",Maulevisión (720p)
 https://makestreaming.online:3723/stream/play.m3u8
-#EXTINF:-1 tvg-id="",MAXIMA (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="MaximaFMChile.cl",Maxima FM (720p) [Not 24/7]
 https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8
 #EXTINF:-1 tvg-id="Mega.cl",Mega (480p)
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
@@ -257,8 +255,6 @@ https://pnt.janusmedia.tv/hls/pnt.m3u8
 https://tv.streaming-chile.com:19360/elsembrador/elsembrador.m3u8
 #EXTINF:-1 tvg-id="RadioHoyTV.cl",Radio Hoy TV (1080p)
 https://panel.dattalive.com/8146/8146/playlist.m3u8
-#EXTINF:-1 tvg-id="",Radio Maxima 94.9 FM SB (720p) [Not 24/7]
-http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioQ.cl",Radio Q (1080p)
 https://panel.miplay.cl:8081/radioq/index.m3u8
 #EXTINF:-1 tvg-id="RadioRancaguaFM.cl",Radio Rancagua FM (768p) [Not 24/7]

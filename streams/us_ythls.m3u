@@ -7,7 +7,7 @@ https://ythls.armelin.one/channel/UC3mHciwDcBC8XucNnRt9C6A.m3u8
 https://ythls.armelin.one/channel/UCeLEGbj240J6JhpP7ba8GwA.m3u8
 #EXTINF:-1 tvg-id="5DiasTV.py",5Días TV (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCiyJDRTHlTOGn6Fc5_BxcJw.m3u8
-#EXTINF:-1 tvg-id="",5 канал (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="Channel5.ua",5 канал (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCkyrSWEcjZKpIwMxiPfOcgg.m3u8
 #EXTINF:-1 tvg-id="7ALimoges.fr",7ALimoges (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg.m3u8
@@ -51,7 +51,7 @@ https://ythls.armelin.one/channel/UCY8r_lukdRi5cK5wjK_O3qw.m3u8
 https://ythls.armelin.one/channel/UCgBAPAcLsh_MAPvJprIz89w.m3u8
 #EXTINF:-1 tvg-id="AbbTakk.pk",Abb Takk (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UC5mwDEzm4FzXKoHPBDnuUQQ.m3u8
-#EXTINF:-1 tvg-id="ABCNewsAustralia.au",ABC News Australia (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ABCNewsSydney.au",ABC News Australia (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCVgO39Bk5sMo66-6o6Spn6Q.m3u8
 #EXTINF:-1 tvg-id="",ABC TV News (YouTube) (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCPW-5qfYGNR8XYrvESrqJKA.m3u8
@@ -73,13 +73,13 @@ https://ythls.armelin.one/channel/UCrYFBjFOP_zlFzsif9XDhgw.m3u8
 https://ythls.armelin.one/channel/UCCK3OZi788Ok44K97WAhLKQ.m3u8
 #EXTINF:-1 tvg-id="ADHTV.au",ADH TV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCtzTaKI8AkiSjyzm1_JbMUg.m3u8
-#EXTINF:-1 tvg-id="AdityaMusicIndia.in",Aditya Music (720p)
+#EXTINF:-1 tvg-id="AdityaMusic.in",Aditya Music (720p)
 https://ythls.armelin.one/channel/UCNApqoVYJbYSrni4YsbXzyQ.m3u8
 #EXTINF:-1 tvg-id="AdomTV.gh",Adom TV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCKlgbbF9wphTKATOWiG5jPQ.m3u8
-#EXTINF:-1 tvg-id="",Africanews English (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="AfricanewsEnglish.cg",Africanews English (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UC1_E8NeF5QHY2dtdLRBCCLA.m3u8
-#EXTINF:-1 tvg-id="",Africanews Français (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="AfricanewsFrench.cg",Africanews Français (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UC25EuGAePOPvPrUA5cmu3dQ.m3u8
 #EXTINF:-1 tvg-id="AfriqueMedia.cm",Afrique Média (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCOBMhI7TtRLTAGpcTjNvYCw.m3u8
@@ -97,7 +97,7 @@ https://ythls.armelin.one/channel/UCH4UNKBHSNwstan99YDoCVg.m3u8
 https://ythls.armelin.one/channel/UCrj5BGAhtWxDfqbza9T9hqA.m3u8
 #EXTINF:-1 tvg-id="AlHudaTV.ke",Al Huda TV (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCdTAsRrQEp-IVoMzKoRG4ZQ.m3u8
-#EXTINF:-1 tvg-id="",Al Jazeera Arabic (1080p)
+#EXTINF:-1 tvg-id="AlJazeera.qa",Al Jazeera Arabic (1080p)
 https://ythls.armelin.one/channel/UCfiwzLy-8yKzIbsmZTzxDgw.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa",Al Jazeera English (1080p)
 https://ythls.armelin.one/channel/UCNye-wNBqNL5ZzHSJj3l8Bg.m3u8
@@ -121,6 +121,10 @@ https://ythls.armelin.one/channel/UCROKYPep-UuODNwyipe6JMw.m3u8
 https://ythls.armelin.one/channel/UCbKWv2x9t6u8yZoB3KcPtnw.m3u8
 #EXTINF:-1 tvg-id="AlHiwarTV.uk",Alhiwar TV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UC_fNP2ettM5ius4BZ6G7MOg.m3u8
+#EXTINF:-1 tvg-id="Alhurra.us",Alhurra (Alternative) (720p)
+https://ythls.armelin.one/channel/UCyscVWiJELkATSuU-RF2NLg.m3u8
+#EXTINF:-1 tvg-id="AlhurraIraq.us",Alhurra Iraq (Alternative) (720p)
+https://ythls.armelin.one/channel/UCTkMv4UVWC7bpnO1edsrB9A.m3u8
 #EXTINF:-1 tvg-id="AlltheKPop.kr",All The K-POP (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCPde4guD9yFBRzkxk2PatoA.m3u8
 #EXTINF:-1 tvg-id="AlmagharibiaTV.uk",Almagharibia TV (1080p)
@@ -159,7 +163,7 @@ https://ythls.armelin.one/channel/UCYKbJljhlPac_5NY1NxohFQ.m3u8
 https://ythls.armelin.one/channel/UCLAOTbXfGlOL0gBXcqFU7Dg.m3u8
 #EXTINF:-1 tvg-id="AsharqNews.sa",Asharq News (1080p)
 https://ythls.armelin.one/channel/UCRJUVYt9gjg8MnlGacySUdg.m3u8
-#EXTINF:-1 tvg-id="",Astro AWANI (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="AstroAwani.my",Astro AWANI (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UC5dYmq91e5_g54krpO06NJw.m3u8
 #EXTINF:-1 tvg-id="AstrocenterTV.fr",Astrocenter TV (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCMkQQZsNdRVZ3N7Oj6jVnyg.m3u8
@@ -167,7 +171,7 @@ https://ythls.armelin.one/channel/UCMkQQZsNdRVZ3N7Oj6jVnyg.m3u8
 https://ythls.armelin.one/channel/UCwS3E2NaN3uorr9wf2_i6Cg.m3u8
 #EXTINF:-1 tvg-id="ATVAvrupa.tr",ATV Avrupa (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8
-#EXTINF:-1 tvg-id="",Avenues Khabar (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="AvenuesKhabar.np",Avenues Khabar (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCMDzPE_7fcZSRJgpwIVor_A.m3u8
 #EXTINF:-1 tvg-id="AwakeningTV.in",Awakening TV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCQ8kxAu_on_YzVPMjB03rqA.m3u8
@@ -193,7 +197,7 @@ https://ythls.armelin.one/channel/UCtj2xA6lW9BPE4BxnhxQQkw.m3u8
 https://ythls.armelin.one/channel/UCxA_zZwALQMmVMSZyLKC-Nw.m3u8
 #EXTINF:-1 tvg-id="BelsatTV.pl",Belsat TV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCRokSp8CGOuQO4R0F1RxRGg.m3u8
-#EXTINF:-1 tvg-id="",Berita RTM (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="BeritaRTM.my",Berita RTM (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCjUxj4cyy_F0tVCT8WfmdZQ.m3u8
 #EXTINF:-1 tvg-id="BernamaTV.my",Bernama TV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
@@ -231,8 +235,6 @@ https://ythls.armelin.one/channel/UCzescUFTh2jiZkYIx9uZtqA.m3u8
 https://ythls.armelin.one/channel/UCyM7oro5NhR5oPyMEFB_rUA.m3u8
 #EXTINF:-1 tvg-id="Canal2.ni",Canal 2 (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCX2i6sAexuDAbHMztLnfnKg.m3u8
-#EXTINF:-1 tvg-id="Canal6EntreRios.ar",Canal 6 Entre Ríos (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCgj6Vesuxfr_fVEp-rG5sxQ.m3u8
 #EXTINF:-1 tvg-id="Canal7Chubut.ar",Canal 7 Chubut (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCfmLIFSQSQ-4y9Jgn93nefA.m3u8
 #EXTINF:-1 tvg-id="Canal8SanJuan.ar",Canal 8 San Juan (1080p) [Not 24/7]
@@ -255,6 +257,8 @@ https://ythls.armelin.one/channel/UCMPPdsYmf-V6jukDtIfpM_A.m3u8
 https://ythls.armelin.one/channel/UCh4GjKBcqxOsL_Bt8gCCSLg.m3u8
 #EXTINF:-1 tvg-id="CanaldelaCiudad.ar",Canal de la Ciudad (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
+#EXTINF:-1 tvg-id="CanaldeOracaoMana.pt",Canal de Oração Maná (2160p) [Not 24/7]
+https://ythls.armelin.one/channel/UCI7xBRUwWJ6LKipBkjWzfVg.m3u8
 #EXTINF:-1 tvg-id="",Canal Local Grosbliederstroff
 https://ythls.armelin.one/channel/UCjbvuMcOCvyYFZKKPvU6QHw.m3u8
 #EXTINF:-1 tvg-id="CanalRed.es",Canal Red (1080p)
@@ -443,7 +447,7 @@ https://ythls.armelin.one/channel/UC4Ct8gIf9f0n4mdyGsFiZRA.m3u8
 https://ythls.armelin.one/channel/UCbATDExtWstHnwWELZnXNZA.m3u8
 #EXTINF:-1 tvg-id="EuronewsRussian.fr",Euronews по-русски [Not 24/7]
 https://ythls.armelin.one/channel/UCFzJjgVicCtFxJ5B0P_ei8A.m3u8
-#EXTINF:-1 tvg-id="",Evangélisation des Nations (EVDN)
+#EXTINF:-1 tvg-id="EvangelisationdesNations.fr",Evangélisation des Nations (EVDN)
 https://ythls.armelin.one/channel/UCt6UJcNkqVKIGAuFg23oh2w.m3u8
 #EXTINF:-1 tvg-id="ExcelsiorTV.mx",Excélsior TV (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
@@ -467,7 +471,7 @@ https://ythls.armelin.one/channel/UCB6hqQBHK-gToq0vKEQU7UQ.m3u8
 https://ythls.armelin.one/channel/UCWcErqFw28UlHluawiWLO2g.m3u8
 #EXTINF:-1 tvg-id="FPTV.us",Fayetteville Public Television (FPTV) (Fayetteville AR) (1080p)
 https://ythls.armelin.one/channel/UCT3Dk_ZPcoR7CeHM_Wwb3QA.m3u8
-#EXTINF:-1 tvg-id="",Fen Folk (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="FenFolkTV.bg",Fen Folk (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCptENFbwjv79hmQPymnwKcA.m3u8
 #EXTINF:-1 tvg-id="FirstIndiaNews.in",First India News (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UC_cZYFovNQTsKw1ZLmO_AMA.m3u8
@@ -553,7 +557,7 @@ https://ythls.armelin.one/channel/UCRnFGOp_mjaCYEhMzsE2iHA.m3u8
 https://ythls.armelin.one/channel/UCTR1wO3hnYzBs0BJIQAyZKw.m3u8
 #EXTINF:-1 tvg-id="HopeChannelTanzania.tz",Hope Channel Tanzania (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCd-Q13Ld2cuutzCcQk7OD8w.m3u8
-#EXTINF:-1 tvg-id="",Hot TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="HotTV.my",Hot TV (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCFV_yPFxPbbmrYJ9J6zJglA.m3u8
 #EXTINF:-1 tvg-id="NTA.ua",HTA (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCQdSS9GSBbtSqW3oNB39KTw.m3u8
@@ -575,7 +579,7 @@ https://ythls.armelin.one/channel/UCa85JIfBxZgcrsd8Ar7Z9nw.m3u8
 https://ythls.armelin.one/channel/UCJbgGTpBWuC87VFIKTTO4RQ.m3u8
 #EXTINF:-1 tvg-id="IFMTV.tn",IFM TV (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCvPW0VhnTcxYjWIxCvMlw2Q.m3u8
-#EXTINF:-1 tvg-id="",Impact TV Network (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="ImpactTVNetwork.us",Impact TV Network (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCaZWTzSO0dvQiAbN-4xFYIg.m3u8
 #EXTINF:-1 tvg-id="",IncrediTales Français
 https://ythls.armelin.one/channel/UCgRU1S0M_TbYe0G0O1s4mqg.m3u8
@@ -597,6 +601,8 @@ https://ythls.armelin.one/channel/UCaFBF255LGHwqSB35kN7jsA.m3u8
 https://ythls.armelin.one/channel/UC4jYxQXFqB5q6INV6WEQC2A.m3u8
 #EXTINF:-1 tvg-id="",ISSO New Zealand Daily Darshan Auckland (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCXvs0ohLDctzFbbEGCQg-rQ.m3u8
+#EXTINF:-1 tvg-id="IwateMenkoiTelevision.jp",Iwate Menkoi Television (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCw14eNQAUDqCg-fX3Uvd07w.m3u8
 #EXTINF:-1 tvg-id="IzvornaTV.ba",Izvorna TV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCCg4AIJUdOL0A_90Mcj1ilA.m3u8
 #EXTINF:-1 tvg-id="JaiMaharashtra.in",Jai Maharashtra (1080p) [Not 24/7]
@@ -625,8 +631,6 @@ https://ythls.armelin.one/channel/UCkCWitaToNG1_lR-Si1oMrg.m3u8
 https://ythls.armelin.one/channel/UCd9nkc2XA77NMxBvQz35I2Q.m3u8
 #EXTINF:-1 tvg-id="Kanal9Erzgebirge.de",Kanal 9 Erzgebirge (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCtd99m_W5wsyd4YFyQMb7ig.m3u8
-#EXTINF:-1 tvg-id="",Kanal Centr (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCQeGq915GhiFlOE-fuoXGKQ.m3u8
 #EXTINF:-1 tvg-id="KTVSerbinow.pl",Katolicka Telewizja Serbinów (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCcYdi3Y11OndqAYkGhLsm8A.m3u8
 #EXTINF:-1 tvg-id="KBCChannel1.ke",KBC Channel 1 (720p) [Not 24/7]
@@ -661,7 +665,7 @@ https://ythls.armelin.one/channel/UCkWr5PLM8hp8M4WNIkjpKsQ.m3u8
 https://ythls.armelin.one/channel/UCKVsdeoHExltrWMuK0hOWmg.m3u8
 #EXTINF:-1 tvg-id="KTNNews.pk",KTN News (480p) [Not 24/7]
 https://ythls.armelin.one/channel/UCmqlO4sewQO97iCeakXTdaw.m3u8
-#EXTINF:-1 tvg-id="",la chaîne 32 (720p)
+#EXTINF:-1 tvg-id="",La Chaîne 32 (720p)
 https://ythls.armelin.one/channel/UChl0zP89T7yZyEwQkCfmmnQ.m3u8
 #EXTINF:-1 tvg-id="LaGranCarpaCatedralTV.pr",La Gran Carpa Catedral TV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCjtogA7_a6F4bdaO3tnK69Q.m3u8
@@ -703,7 +707,7 @@ https://ythls.armelin.one/channel/UCoMWImnPAur6JhXDK63dpAg.m3u8
 https://ythls.armelin.one/channel/UCXbufH95DIUqyAWSzeDI0JQ.m3u8
 #EXTINF:-1 tvg-id="ManoramaNews.in",Manorama News
 https://ythls.armelin.one/channel/UCP0uG-mcMImgKnJz-VjJZmQ.m3u8
-#EXTINF:-1 tvg-id="MariaTVRomania.ro",Maria TV România (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="MariaTV.ro",Maria TV România (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCMXP2cd--EkenT6FaE9rAjw.m3u8
 #EXTINF:-1 tvg-id="MarinaTV.kw",Marina TV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UC1TelTm8bbY2jw0guInSvBA.m3u8
@@ -713,7 +717,7 @@ https://ythls.armelin.one/channel/UCgA9V57lQlZFXkDfhVGTWSg.m3u8
 https://ythls.armelin.one/channel/UC9SCoYKptExLJRyYS3hkLxg.m3u8
 #EXTINF:-1 tvg-id="MathrubhumiNews.in",Mathrubhumi News (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCwXrBBZnIh2ER4lal6WbAHw.m3u8
-#EXTINF:-1 tvg-id="",Maurienne TV (720p)
+#EXTINF:-1 tvg-id="MaurienneTV.fr",Maurienne TV (720p)
 https://ythls.armelin.one/channel/UCva-htH2wvmKsG6SkcEJ4Vw.m3u8
 #EXTINF:-1 tvg-id="MBCEvery1.kr",MBC Every1 (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UC-VbFgagk6GJGDJgRQIMpZw.m3u8
@@ -753,7 +757,7 @@ https://ythls.armelin.one/channel/UCVbCXWXWd0WCNhdBnmP_TmA.m3u8
 https://ythls.armelin.one/channel/UCyqo8U-nWSCHyxWnI8zbQyA.m3u8
 #EXTINF:-1 tvg-id="MKNMarathi.in",MKN Marathi (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCta-nYp7m-vm2ftA848kAwQ.m3u8
-#EXTINF:-1 tvg-id="",MNews (鏡電視新聞台)
+#EXTINF:-1 tvg-id="mnews.tw",MNews (鏡電視新聞台)
 https://ythls.armelin.one/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
 #EXTINF:-1 tvg-id="MOPTVKenya.ke",MOP TV Kenya (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UC_TKzHKWqX7sAjx4UPZoAPA.m3u8
@@ -901,7 +905,7 @@ https://ythls.armelin.one/channel/UC8Z-VjXBtDJTvq6aqkIskPg.m3u8
 https://ythls.armelin.one/channel/UC2XLtyLSZ3XSAxvULZoV23g.m3u8
 #EXTINF:-1 tvg-id="PowervisionTV.in",Powervision TV (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCzxfpzSF7mz8j7bNIXyZWmA.m3u8
-#EXTINF:-1 tvg-id="",Prestige Thies TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="PrestigeThiesTV.sn",Prestige Thies TV (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCAdTkVp8jmHQc0R0p4XH2DA.m3u8
 #EXTINF:-1 tvg-id="Prime9News.in",Prime9 News (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCLTZ5y21NnklrxpU5AfWd8w.m3u8
@@ -947,7 +951,7 @@ https://ythls.armelin.one/channel/UCK0lpuL9PQb3I5CDcu7Y7bA.m3u8
 https://ythls.armelin.one/channel/UC1mkFVHzP87YQ87PSMxo9MQ.m3u8
 #EXTINF:-1 tvg-id="RajNewsTelugu.in",Raj News Telugu (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCyMei315xIaoJTp5YOYjTxA.m3u8
-#EXTINF:-1 tvg-id="",Rapha TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="RaphaChannelTV.za",Rapha TV (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCYo1cBqDWMAQ-_krJdEw9ew.m3u8
 #EXTINF:-1 tvg-id="RDTV.uy",Raquel Daruech TV (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCxZ7Z0-z9EnTZAyKmeP2_MQ.m3u8
@@ -963,7 +967,7 @@ https://ythls.armelin.one/channel/UCQo_L_h_01NjLYiNHUnjEJw.m3u8
 https://ythls.armelin.one/channel/UCFx1nseXKTc1Culiu3neeSQ.m3u8
 #EXTINF:-1 tvg-id="RepublicBangla.in",Republic Bangla (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCajVjEHDoVn_AHsunUZz_EQ.m3u8
-#EXTINF:-1 tvg-id="",Reveil TV SAT
+#EXTINF:-1 tvg-id="ReveilTVSAT.fr",Reveil TV SAT
 https://ythls.armelin.one/channel/UCl1T496-bFES-IPe3kMmePg.m3u8
 #EXTINF:-1 tvg-id="",RFI
 https://ythls.armelin.one/channel/UCm4fSpMpPIZ9z6KHoezLUAg.m3u8
@@ -1029,7 +1033,7 @@ https://ythls.armelin.one/channel/UC3p-0EWA8OXko2EUDUXAy5w.m3u8
 https://ythls.armelin.one/channel/UCStm2uvQKowSXrnCzTWAn6Q.m3u8
 #EXTINF:-1 tvg-id="SenadoTV.py",Senado TV (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCMXLvWR4z1Z4P4JvubxMQtg.m3u8
-#EXTINF:-1 tvg-id="SenatulRomaniei.ro",Senatul României (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="SenateofRomania.ro",Senatul României (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCpZswGPkx4fBwaZ_U5scXDw.m3u8
 #EXTINF:-1 tvg-id="SETiNews.tw",SET iNews
 https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
@@ -1055,9 +1059,9 @@ https://ythls.armelin.one/channel/UCIJXOvggjKtCagMfxvcCzAA.m3u8
 https://ythls.armelin.one/channel/UCNaQMcnWvx95j7OG3217IMg.m3u8
 #EXTINF:-1 tvg-id="SonataTV.ua",Sonata TV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCU7r0DqO0cGc5qeHXrXufYA.m3u8
-#EXTINF:-1 tvg-id="",SÖZCÜ Televizyonu (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="SozcuTV.tr",Sozcu Televizyonu (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
-#EXTINF:-1 tvg-id="",SQOOL TV (STK)
+#EXTINF:-1 tvg-id="SQOOLTV.fr",SQOOL TV (STK)
 https://ythls.armelin.one/channel/UCaEqMbRYYOmI3WrALMhxuIg.m3u8
 #EXTINF:-1 tvg-id="",StudioQualita
 https://ythls.armelin.one/channel/UC4ZNntU3CyEIH8RGH0n_5bw.m3u8
@@ -1075,7 +1079,7 @@ https://ythls.armelin.one/channel/UCyDiTtktwmrc20Bvs_G4pow.m3u8
 https://ythls.armelin.one/channel/UCB82Zom1MYh8VV4q7wXkfGA.m3u8
 #EXTINF:-1 tvg-id="",Super Truck Français
 https://ythls.armelin.one/channel/UC4u2o6tyE4vTrErXY9AN6Rw.m3u8
-#EXTINF:-1 tvg-id="",SuriaTV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Suria.sg",SuriaTV (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCjDM2C3nXPGD_cGDyrrBT6w.m3u8
 #EXTINF:-1 tvg-id="SuvarnaNews.in",Suvarna News (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCjElJyiXmQXnWmceQ1JyKrA.m3u8
@@ -1093,7 +1097,7 @@ https://ythls.armelin.one/channel/UCRaoHR6b3zViY9QxfgFNntQ.m3u8
 https://ythls.armelin.one/channel/UCEz71zXmApKBYiH1fReemeA.m3u8
 #EXTINF:-1 tvg-id="TBSeFM.kr",TBS eFM (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCHjDAeTbO4fQilomLD-kaXg.m3u8
-#EXTINF:-1 tvg-id="TBSNews.jp",TBS News (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TBSNEWS.jp",TBS News (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8
 #EXTINF:-1 tvg-id="TSN.ua",TCH (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCXoJ8kY9zpLBEz-8saaT3ew.m3u8
@@ -1211,6 +1215,8 @@ https://ythls.armelin.one/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
 https://ythls.armelin.one/channel/UCgJ5pT6S2NuTVP-6-AlLZew.m3u8
 #EXTINF:-1 tvg-id="TopTV.si",Top TV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCsvbFFKlD-oZXO9igJfcdJw.m3u8
+#EXTINF:-1 tvg-id="TOSNews.jp",TOS News (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UChx_y6aLWNkifSDUt2TVAzg.m3u8
 #EXTINF:-1 tvg-id="ToyorAlJannah.jo",Toyor Al-Jannah (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCZbpK_Lgctew3YNELlG2ecw.m3u8
 #EXTINF:-1 tvg-id="TrinitasTV.ro",Trinitas TV (1080p) [Not 24/7]
@@ -1255,7 +1261,7 @@ https://ythls.armelin.one/channel/UCoLgBFFbzGgYJpmcdV0GT4w.m3u8
 https://ythls.armelin.one/channel/UCRVeQhiqhUAxRRUod7F-K3A.m3u8
 #EXTINF:-1 tvg-id="TVCamaraPortoAlegre.br",TV Câmara Porto Alegre (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UC-0IsdHsbWQcZolu66jkQZQ.m3u8
-#EXTINF:-1 tvg-id="TVCanaria.es",TV Canaria (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TelevisionCanaria.es",TV Canaria (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCTQrUTmzCWIfG6h4EVCdOCQ.m3u8
 #EXTINF:-1 tvg-id="TVCarmona.es",TV Carmona (360p) [Not 24/7]
 https://ythls.armelin.one/channel/UCRniQmtUlHJedl36F0Mehvw.m3u8
@@ -1283,17 +1289,19 @@ https://ythls.armelin.one/channel/UC5-IOBnk-mFdQgKS-niajYg.m3u8
 https://ythls.armelin.one/channel/UCnEQCNDsMtPlrVwCrRViaeQ.m3u8
 #EXTINF:-1 tvg-id="TVPanorama.sk",TV Panoráma (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCSJkeYkugXF6DZ8jJtmTNWQ.m3u8
-#EXTINF:-1 tvg-id="",TV Selangor (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="SelangorTV.my",TV Selangor (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCldPEJgJgq_Mb6Ndek5RxQg.m3u8
 #EXTINF:-1 tvg-id="TVSenado.br",TV Senado (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCLgti7NuK0RuW9wty-fxPjQ.m3u8
 #EXTINF:-1 tvg-id="TVSerraDourada.br",TV Serra Dourada (1080p)
 https://ythls.armelin.one/channel/UCuODGS_c39psNvI8f3bYN_g.m3u8
+#EXTINF:-1 tvg-id="TVShizuoka.jp",TV Shizuoka (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCFIlFvYMWkPE6uDcjdro1UA.m3u8
 #EXTINF:-1 tvg-id="TVSlonExtra.ba",TV Slon Extra (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCX0QrFrUrE3Vu7wUcvwQKSw.m3u8
 #EXTINF:-1 tvg-id="TVSlowianin.pl",TV Słowianin (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCpUZqLZNnVwlBIeOZYslMDw.m3u8
-#EXTINF:-1 tvg-id="",TV-U Yamagata (Youtube) (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="JOWIDTV.jp",TV-U Yamagata (Youtube) (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCTWatTAOnFVB0vwIetZCTHw.m3u8
 #EXTINF:-1 tvg-id="TVBSNews.tw",TVBS News (TVBS新聞台)
 https://ythls.armelin.one/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
@@ -1401,7 +1409,7 @@ https://ythls.armelin.one/channel/UCfWo0Z5PKYd86JfQ5ZE5cWg.m3u8
 https://ythls.armelin.one/channel/UCWmwc3u2ikBG2Xfitc_26gg.m3u8
 #EXTINF:-1 tvg-id="",ZoomerRadio
 https://ythls.armelin.one/channel/UCon2a9opDXmI-i3Be6PYBQA.m3u8
-#EXTINF:-1 tvg-id="",Апостроф TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="ApostropheTV.ua",Апостроф TV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UC0lnIB2qcArjFJPtq79WGZA.m3u8
 #EXTINF:-1 tvg-id="MyUkrainaTV.ua",Ми-Україна (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCEduOt4TK8TtOaznB45TrhA.m3u8
@@ -1411,5 +1419,7 @@ https://ythls.armelin.one/channel/UC5V8mErVFOpcQXEb3y9IMZw.m3u8
 https://ythls.armelin.one/channel/UCH9H_b9oJtSHBovh94yB5HA.m3u8
 #EXTINF:-1 tvg-id="UNIANTV.ua",УНІАН (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCKCVeAihEfJr-pGH7B73Wyg.m3u8
-#EXTINF:-1 tvg-id="Khabar24.kz",Хабар 24 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="24KZ.kz",24KZ (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCnAFKvDuqBGkIfV8Vn0J_CQ.m3u8
+#EXTINF:-1 tvg-id="CENTR.ua",Центр (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCQeGq915GhiFlOE-fuoXGKQ.m3u8

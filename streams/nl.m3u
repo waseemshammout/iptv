@@ -17,8 +17,6 @@ https://takeoff.jetstre.am/?account=OmroepAssen&file=OmroepAssenTV/playlist.m3u8
 https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
 #EXTINF:-1 tvg-id="BEATTV.nl",BE@TTV (1080p)
 https://tv.beatfm.nl/live.m3u8
-#EXTINF:-1 tvg-id="BlueHustler.nl",Blue Hustler (720p)
-http://193.33.240.8:8080/hustler_hd/index.m3u8
 #EXTINF:-1 tvg-id="BNRNieuwsradio.nl",BNR Nieuwsradio (720p) [Geo-blocked]
 https://bnr-cache-cdp.triple-it.nl/studio/index.m3u8
 #EXTINF:-1 tvg-id="BR6TV.nl",BR6 TV (720p)
@@ -45,9 +43,9 @@ https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv3&output=playlist.m3u8&pro
 https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv1&output=playlist.m3u8&protocol=https&service=wowza&type=live
 #EXTINF:-1 tvg-id="Eemland1.nl",Eemland 1 (720p)
 https://streamingserver02.omroepnuenen.nl/spakenburg/spakenburglive_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="EroX.nl",EroX (720p)
+#EXTINF:-1 tvg-id="EroXHD.nl",EroX HD (720p)
 https://cdn-main.lolokoko.tv/Eroxx.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="EroXXX.nl",EroXXX (720p)
+#EXTINF:-1 tvg-id="EroXXXHD.nl",EroXXX HD (720p)
 https://cdn-main.lolokoko.tv/Eroxxx.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="FeelGoodTV.nl",Feel Good TV (720p) [Not 24/7]
 https://58c04fb1d143f.streamlock.net/feel_good_radio_1/feel_good_radio_1/playlist.m3u8
@@ -198,7 +196,7 @@ https://rsdh.cloud-streams.com/rsdh/rsdh/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioVeronica.nl",Radio Veronica (270p)
 https://radioveronica.prd1.talpatvcdn.nl/a1115cc610fd42418e2f6d7e29a01c3c/index.m3u8
 #EXTINF:-1 tvg-id="RadioNLTV.nl",RadioNL TV (1080p) [Not 24/7]
-https://61ae39677a1ab.streamlock.net/radionl/radionl_1080p/playlist.m3u8?ref=Hoofdwebsite&token_endtime=1661322499&token_hash=yPCofcNBmbfuVCU4UqsLrQ6GgnKJGC5gQ0tn5_F9FSE=&token_starttime=0
+https://stream.radionl.tv/radionltv/radionltv/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioToppers.nl",RadioToppers (720p)
 https://server-67.stream-server.nl:1936/RadioToppers/RadioToppers/playlist.m3u8
 #EXTINF:-1 tvg-id="Rararadio.nl",Rararadio (720p)
@@ -400,9 +398,3 @@ https://zfmzoetermeer.nl/live/master.m3u8
 https://video.uitzending.tv:19360/zo34/zo34.m3u8
 #EXTINF:-1 tvg-id="ZuidWestTV.nl",ZuidWest TV (480p)
 https://live.zuidwesttv.nl/live/zwtv.m3u8
-#EXTINF:-1 tvg-id="HustlerHD.nl",Hustler HD (1080p)
-http://85.11.144.9:4222/HustlerHD?token=test
-#EXTINF:-1 tvg-id="EroXXXHD.nl",Eroxxx HD (1080p)
-http://85.11.144.9:4222/EroxxxHD?token=test
-#EXTINF:-1 tvg-id="EroXHD.nl",Erox HD (576p)
-http://85.11.144.9:4222/EroxHD?token=test
